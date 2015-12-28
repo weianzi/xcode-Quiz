@@ -8,7 +8,7 @@
 
 #import "AppDelegate.h"
 #import "BNRQuizViewController.h"
-
+//说明
 @interface AppDelegate ()
 
 @end
